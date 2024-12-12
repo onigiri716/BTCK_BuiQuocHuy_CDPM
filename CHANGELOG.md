@@ -3,3 +3,6 @@
 * [CDPM-02] Implement multiplication [PR#3](https://github.com/onigiri716/BTCK_BuiQuocHuy_CDPM/pull/2)
 * [CDPM-03] Implement subtraction [PR#2](https://github.com/onigiri716/BTCK_BuiQuocHuy_CDPM/pull/3)
 * [CDPM-04] Implement division [PR#4](https://github.com/onigiri716/BTCK_BuiQuocHuy_CDPM/pull/4)
+
+# v1.0.1 - Y20241213
+* [CDPM-06] Remove addition [PR#8](https://github.com/onigiri716/BTCK_BuiQuocHuy_CDPM/pull/8)
